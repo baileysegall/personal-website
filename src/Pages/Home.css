@@ -1,0 +1,32 @@
+.main{
+    background-color: #e1d0d1ff;
+    height:50vw;
+    display: flex;
+    
+  }
+  
+  .right{
+    width: 55%;
+    text-align:left;
+    font-size:250%;
+    font-family: 'Ubuntu', sans-serif;
+    color:#ffffff;
+
+    display: flex;
+    flex-direction: column;
+    align-items:left;
+    justify-content: center;
+  }
+
+  .headerImage{
+    width: 60%;
+    
+  }
+  
+  .left{
+    width: 45%;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: center;
+  }

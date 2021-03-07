@@ -1,0 +1,8 @@
+.outer{
+    background-color:#ffffff;
+    height: 40vw;
+    display:flex;
+    padding:5%;
+    padding-bottom: 0%;
+    font-family: 'Ubuntu', sans-serif;
+}

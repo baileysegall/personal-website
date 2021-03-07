@@ -1,0 +1,53 @@
+.secondPart{
+    background-color:#ffffff;
+    height:30vw;
+    display: flex;
+    padding: 3%;
+    color:white;
+    font-family: 'Ubuntu', sans-serif;
+    font-size:0.9em;
+    
+  }
+
+  .classes{
+      color:white;
+      font-size: 0.75em;
+      font-family: 'Ubuntu', sans-serif;
+  }
+
+  .rightab{
+      background-color:#e1d0d1ff;
+      /*width:40%;*/
+      height:100%;
+      min-width:20%;
+      border-radius:50px;
+      position:relative;
+      padding-right:3%;
+      padding-left:3%
+      
+  }
+
+  .laptop{
+    height:50%;
+    right:0px;
+    position:absolute;
+    bottom:0;
+    right:3%;
+}
+
+  .leftab{
+      background-color:#ffffff;
+      /*width: 60%;*/
+      height:100%;
+      padding:25px;
+      overflow: scroll;
+      color:#000000;
+      text-align:left;
+      size:10%;
+
+  }
+
+  .minitit{
+      size:50%;
+  }
+

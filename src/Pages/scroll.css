@@ -1,0 +1,43 @@
+.bar{
+    background-color:#e1d0d1ff;
+    width: 100vw;
+    display: flex;
+    position: sticky;
+    top:0;
+    
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #e1d0d1ff;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+  }
+  
+  li {
+    font-family: 'Ubuntu', sans-serif;
+    float: left;
+    font-size:1.5vw;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 6vw;
+    text-decoration: none;
+    font-weight: bolder;
+  }
+  
+  li a:hover {
+    background-color: #cbafb1ff;
+  }
+  
+  .active {
+    background-color: #e1d0d1ff;
+    padding: 14px 6vw;
+  }
