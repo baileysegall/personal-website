@@ -7,10 +7,12 @@ function Aboutme() {
       <div className="secondPart">
           <div className="leftab">
                 <p>Hi I'm Bailey.
+
                 Before my sophomore year of high school, I had never written a line of code 
                 or even clicked 'inspect' on a webpage. The thought that three years later, 
-                I would be studying Electrical Engineering and Computer Science hadn't even flitted through my mind.
-
+                I would be studying Electrical Engineering and Computer Science 
+                at UC Berkeley hadn't even flitted through my mind.
+                <br></br>
                 I  essentially happened into coding by accident, yet as soon as I started, 
                 all my intentions for the future shifted. I realized how applicable CS is to 
                 my interests and how enthralled I am by its algorithmic nature. I started on 
