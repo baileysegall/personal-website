@@ -9,9 +9,9 @@ import Contact from './Pages/contact.js';
 function App() {
   return (
     <div className="App">
-      <Home />
+      <Home/>
       <Scroll />
-      <Aboutme />
+      <Aboutme/>
       <Proj />
       <Contact />
     </div>

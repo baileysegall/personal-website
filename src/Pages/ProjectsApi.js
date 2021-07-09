@@ -7,7 +7,7 @@ import Projects from './Projects';
 const base = new Airtable( {apiKey:'keyyGSmV5MS8h310O'}).base('appFWztQ2fhWRzICb')
 
 function Projectsapi() {
-    const [projects, setProjects] = useState([])
+    const [projects, setProjects] = useState([]);
 
     useEffect(()=>{
         base("projects")
@@ -25,9 +25,12 @@ function Projectsapi() {
         <Projects 
             key={project.id}
             project={project}/>
+        
         ))}
     </>
     );
 }
 
 export default Projectsapi
+
+

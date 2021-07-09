@@ -1,11 +1,40 @@
 .contact{
     display:flex;
-}
+    justify-content: center;
+    align-items:center;
 
-.sitting{
-    width:30%;
 }
 
 .sit{
-    width:80%
+    height:50vh;
+    margin-left:5vw;
+    margin-right:5vw;
+}
+
+.contactstuff{
+    /*background-color: hotpink;*/
+    text-align:left;
+    color:grey;
+    width:38vw;
+}
+
+.icon{
+    width:5vw;
+    margin:2vw 1vw 0vw 1vw;
+}
+
+.e{
+    color: #e1d0d1ff;
+}
+
+.link{
+    color:grey;
+}
+
+
+.sitting{
+    height:85vh;
+    display:flex;
+    align-items: center;
+
 }

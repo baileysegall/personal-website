@@ -5,7 +5,6 @@
     padding: 3%;
     color:white;
     font-family: 'Ubuntu', sans-serif;
-    font-size:0.9em;
     
   }
 
@@ -22,6 +21,7 @@
       min-width:20%;
       border-radius:50px;
       position:relative;
+
       padding-right:3%;
       padding-left:3%
       
@@ -30,9 +30,15 @@
   .laptop{
     height:50%;
     right:0px;
+    bottom:4%;
     position:absolute;
-    bottom:0;
     right:3%;
+}
+
+.text{
+    height:46%;
+    font-size: 1.4vw;
+
 }
 
   .leftab{
@@ -43,11 +49,11 @@
       overflow: scroll;
       color:#000000;
       text-align:left;
-      size:10%;
+      font-size:1.3vw;
 
   }
 
   .minitit{
-      size:50%;
+    font-size:1.7vw;
   }
 
