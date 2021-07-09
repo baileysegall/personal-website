@@ -19,11 +19,11 @@ function Aboutme() {
                 my own, toying around with incorporating algorithms into my everyday tasks 
                 through coding applications. But quickly expanded to taking the course offered 
                 at my local high school and then to other online offerings. 
-
+                <br></br>
                 However, no matter the extent of the coursework, it always came back to me 
                 exploring, learning, and building. I've now taken a full year of university 
                 computer science course, and my true enjoyment of coding has not budged.
-
+                <br></br>
                 I love what I am doing, what I am learning, and all the different ways computer 
                 science and I can make a difference.
 
